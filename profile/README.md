@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This organisation belongs to VRL members.
+This organisation belongs to Wookies.
 If you're a member, please log in.
 
 :lock: ➡️ 🔓
