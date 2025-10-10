@@ -9,7 +9,7 @@ If you're a member, please log in to see private repositories.
 
 ### VirScan on ENDIA and VIGR cohorts
 - [Repository containing R code to reproduce analyses for the "Distinct enterovirus antigen landscape in children with islet autoimmunity" paper](https://github.com/TheWookHub/enterovirus-antigens-kids-w-IA)
-
+- [WookScan repository for WookFlow](https://github.com/TheWookHub/NextFlow_WookScan)
   
 <!--
 
